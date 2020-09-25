@@ -2,7 +2,7 @@
 HTTPStatusCodes returns a string detailing of what a given status code means.
 
 ## Install
-Pip coming soon.
+`pip install HTTPStatusCodes`
 ## How to use
 ```py
 from HTTPStatusCodes import get_status_string
